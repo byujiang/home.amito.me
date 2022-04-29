@@ -44,7 +44,9 @@ body {
   font-size: 1em;
   color: #595959;
   -webkit-font-smoothing: antialiased;
-  text-align: justify; }
+  text-align: justify; 
+  background-color: #2f3243;
+  display:flex;}
 
 ::selection {
   background: #edc0c3; }
@@ -371,7 +373,7 @@ hr {
   left: 0;
   width: 100%;
   height: 35px;
-  background: rgba(51, 51, 51, 0.98);
+  background-color: #2f3243;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center; }
 
