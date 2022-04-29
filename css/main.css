@@ -164,7 +164,8 @@ ul {
   font-size: .7em;
   color: #b3b3b3;
   margin: auto auto 10px auto;
-  background-color: #2f3243;}
+  background-color: #2f3243;
+  z-index:1;}
 
 .footer__copyright {
   display: block;
