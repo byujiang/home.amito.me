@@ -559,8 +559,10 @@ i {
     margin-bottom: .4em; } }
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #333333;
-    color: #bfbfbf; }
+    background-color: #2f3243;
+    color: #bfbfbf; 
+    display:flex;
+    flex-direction: column;}
 
   h1,
   h2,
